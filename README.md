@@ -1,6 +1,6 @@
-# Welcome to Tyler's Github!
+# Welcome! Thanks for stopping by 👋
 
-## About Me
+## About Tyler
 
 Lead Software Engineer on Verizon Automation Team
 🏃‍♂️
