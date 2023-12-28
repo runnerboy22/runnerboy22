@@ -8,5 +8,5 @@ Unnecessarily competent at creating new repos
 
 
 
-<!--Quick to create a new repo to experiment with new tools --!>
+<!--Quick to create a new repo to initialize experiment with new tools --!>
 <!--  atylerwolfe.com 🏃‍♂️🌱--!>
