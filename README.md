@@ -3,6 +3,9 @@
 ## [Tyler](https://atylerwolfe.com) 🏃‍♂️🌱
 
 ### @ Work [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/atylerwolfe/)
+<a href="https://www.linkedin.com/in/atylerwolfe/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"/>
+</a>
 Lead Software Engineer on Verizon Automation Team
 
 ### @ Play
