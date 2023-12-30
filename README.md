@@ -1,6 +1,6 @@
 # Welcome! Thanks for stopping by 👋
 
-## [Tyler](atylerwolfe.com) 🏃‍♂️🌱
+## [Tyler](https://atylerwolfe.com) 🏃‍♂️🌱
 
 ### @ Work
 Lead Software Engineer on Verizon Automation Team
