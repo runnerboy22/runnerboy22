@@ -1,12 +1,12 @@
 # Welcome! Thanks for stopping by 👋
 
-## Tyler @ Work
+## Tyler
+
+### @ Work
 Lead Software Engineer on Verizon Automation Team
 
-## Tyler @ Play
-Unnecessarily competent at creating new repos
+### @ Play
+- I love spinning up new repos to experiment with my latest project ideas.
+- As such, I am unnecessarily competent at initializing apps!
 
-
-
-<!--Quick to create a new repo to initialize experiment with new tools --!>
 <!--  atylerwolfe.com 🏃‍♂️🌱--!>
