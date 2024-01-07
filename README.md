@@ -6,6 +6,7 @@
 
 Lead Software Engineer on Verizon Automation Team
 - We automate on-prem builds for physical servers and VMs like it's going out of fashion.
+- I own development of our tool for managing physical server operations.
 
 ### @ Play
 - I love spinning up new repos to experiment with my latest project ideas.
