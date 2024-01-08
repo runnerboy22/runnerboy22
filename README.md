@@ -12,6 +12,7 @@ Lead Software Engineer on Verizon Automation Team
 ### @ Play
 - I love spinning up new repos to experiment with my latest project ideas.
 - As such, I am unnecessarily competent at initializing apps!
+- I'm also reflecting on what a manual process it is to train and refine ML models.
 
 ### @ Home
 - Living with veganism since 2015.
